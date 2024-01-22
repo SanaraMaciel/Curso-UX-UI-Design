@@ -1,0 +1,169 @@
+Design centrado no usuário é o processo onde mantemos o foco em: necessidades, desejos e limitações dos usuários durante todo o projeto dsd o lançamento até  a entrega. 
+Possui 4 etapas básicas :
+1 - Identificar Requisitos
+2 - Criar soluções alternativas
+3 - Construir protótipos testáveis
+4 - Avaliar com usuários
+
+proto persona é criada mais rápiso e é feita através de um brainstorm.
+não crie menos q 3 personas e não mais que 7 . 
+definindo as q são primárias, secundárias  e complementares. 
+
+
+Criando um Briefing
+
+Para iniciar o projeto do seu website, você deverá criar um Briefing, que nada mais é do que um documento de planejamento que irá guiar todo o seu projeto. Nesse documento, você deverá responder algumas perguntas:
+
+Qual será o assunto, tema ou função principal do seu site?
+Em que o seu site se diferencia dos demais que tratam do mesmo assunto?
+Quem será o público? Que tipo de pessoas você espera que acessem o seu site?
+O que você espera que essas pessoas façam depois de acessarem o seu site?
+Então, abra agora mesmo o seu editor de texto e comece a escrever sobre essas questões ;)
+
+Ux - Experiência do usuário. é mais estratégia
+
+UX será diferencial para marcas: experiência dos usuários em breve! Será mais importante que o preço como diferencial competitivo. (Meio e Mensagem)
+
+
+1 elemento estratégia:
+- Objetivos do produto.
+- necessidades do usuário
+
+2 elemento escopo:
+- identificar as soluções que atendem as necessidades especificadas anteriormente
+
+- especificações funcionais
+
+- e-commerce, portal de notícias: Requisitos de conteúdo.
+
+3 elemento estrutura:
+- estrutura do produto design de interação 
+- e-commerce, portal de notícias: Arquitetura da informação.
+
+4 elemento esqueleto:
+
+- design de interface 
+
+- design da navegação 
+
+- design da informação.
+
+5 elemento superfície:
+
+- design visual (elementos, formas, cores , imagens)
+
+No capítulo 03 desta aula você pôde aprender um pouco sobre Especificações Funcionais e Requisitos de Conteúdos.
+
+Especificações Funcionais: conjunto de funcionalidades. Descrições detalhadas de funcionalidades que o site deve incluir para ir ao encontro das necessidades do usuário.
+Requisitos de Conteúdo: definição dos elementos do conteúdo necessários ao site para ir ao encontro das necessidades do usuário.
+Para entender melhor como você deve descrever uma funcionalidade ou conteúdo do seu site, veja o exemplo abaixo descrevendo uma funcionalidade para o site de uma Companhia Aérea:
+
+Funcionalidade: Oferecer a busca de passagens aéreas. 1. Informações: Local de origem, local de destino, data de partida, data de volta, quantidade de adultos, quantidade de crianças, idade das crianças. 2. Regras: O sistema deve permitir que o visitante ou o cliente do portal possam executar a busca fornecendo as informações obrigatórias e, caso haja resultado para a consulta, o portal deve disponibilizar as passagens aéreas com seus preços, as companhias disponíveis, escala e conexões (se houver), origem, destino e horário. Caso não haja disponibilidade, deve ser informado ao cliente que não houve resultado para a consulta.
+
+Dessa forma, utilizando as informações que você inseriu no seu Briefing e nas suas Proto-Personas, você deverá criar um documento informando quais funcionalidades e conteúdos o seu site terá para ir de encontro as necessidades dos seus usuários.
+
+Mãos na massa!
+
+Mapas de Navegação: relações entre uma página e outra. 
+é criado por vocabulário p/ descrever a estrutura e usabilidade do usuário no sistema.
+
+Anotações do professor
+Na aula anterior, você criou uma Especificação Funcional, indicando detalhadamente quais funcionalidades o seu site deverá conter.
+
+Com base nessa Especificação, e também no que você já vem pensando sobre esse seu projeto, você vai criar um Mapa de Navegação, que é o documento que vai representar a estrutura do seu site, indicando [1] a quantidade de páginas existentes e [2] a ligação entre elas.
+
+Você poderá criar esse mapa no papel, ou utilizando um software como o Power Point, que traz esses símbolos entre as suas ferramentas de desenho.
+
+Na lista de materiais adicionais deste capítulo você encontrará mais informações sobre o que são e como criar mapas de navegação, e também poderá visualizar exemplos desse tipo de documento.
+
+Mãos na massa!
+
+taxonomia de um WebSite determina os conteúdos utilizados por ele agrupamento das páginas e hierarquia entre elas, o que o usuário espera em relação a usabilidade.
+
+Com base no mapa de navegação que você criou anteriormente, você vai organizar e aplicar um Card Sorting. Este teste consiste em disponibilizar para um usuário uma série de cartões contendo uma palavra ou frase que represente um conteúdo/página do seu site. Visualizando todos esses cartões, o usuário poderá dividi-los em grupos de conteúdos que tenham alguma relação (categorias), para em seguida criar um nome para cada um desses grupos. Analisando o resultado do teste de vários usuários, você poderá descobrir qual a melhor categorização para o seu site, e quais os melhores rótulos (nomes) para as categorias.
+
+Por exemplo, imagine que o seu site é sobre um time de futebol. Nesse site vamos ter as seguintes páginas sobre o nosso time:
+
+Campeonatos
+Centro de Treinamentos
+Comissão Técnica
+Contato
+Diretoria
+Elenco
+Escola de Futebol
+Estádio
+Estatuto
+Estrutura
+Fórum
+Fotos
+Grandes ídolos
+História
+Ingressos
+Jogos
+Loja
+Sala de Imprensa
+Sede Social
+Sócio-Torcedor
+Títulos
+Vídeos
+Nesse nosso exemplo, o site sobre um time de futebol teria 22 páginas. O que faríamos nesse caso seria colocar o nome de cada uma dessas páginas em um cartão (ou pedaço de papel retangular, ou mesmo um post-it), e depois dispor todos esses cartões de forma aleatória em uma mesa. Em seguida pediríamos para um possível usuário do seu site ir até essa mesa e separar os cartões em grupos de conteúdos que tenham alguma relação, e depois ele poderia dar um nome para cada grupo.
+
+Por exemplo, vamos imaginar que um usuário veio até a mesa e criou um grupo com os cartões História, Diretoria, Sede Social, Estatuto, Estrutura e Estádio, e a esse grupo deu o nome de Sobre o Clube. Ele poderia criar diferentes grupos com os outros cartões e dar nomes a esses grupos, que se tornariam as categorias do site.
+
+Logicamente, o resultado dos testes de vários usuários teriam resultados diferentes. O seu objetivo nesse tipo de teste é analisar os resultados mais comuns, e usar isso para determinar como deve ser a categorização das informações do seu site. É muito provável que o seu site seja fácil de navegar, e que as pessoas encontrem tudo o que procuram nele, se você organizá-lo de acordo com o modelo mental dos seus usuários, e você conseguirá aprender isso aplicando testes como o Card Sorting.
+
+Pois bem, agora eu quero que você pegue a lista de conteúdos/páginas que você imaginou que devam existir no seu site, coloque esses itens em cartões ou post-its, e convide alguns usuário (ou amigos) para participar desse teste. Depois analise os resultados mais comuns e utilize esse aprendizado para determinar como deve ser a categorização ideal do seu site. Depois disso, você poderá atualizar o seu Mapa de Navegação criado anteriormente.
+
+Na lista de materiais adicionais você poderá encontrar alguns exemplos de aplicação de Card Sorting, e também alguns textos para complementar o seu conhecimento.
+
+
+Prototipação
+
+Usar protótipos vantagens 
+
+criando wireframes;
+
+Anotações do professor
+Com o Mapa de Navegação que você criou anteriormente para o seu site, é possível prever todas as páginas que deverão ser criadas. Já com a Especificação Funcional que você também criou nas aulas anteriores, é possível saber que tipo de elementos e funcionalidades cada uma dessas páginas deve conter.
+
+Dessa forma, você deverá criar Wireframes em papel, determinando quais elementos de interface e conteúdos deverá haver dentro de cada uma das páginas do seu site, assim como o correto posicionamento de cada um dos elementos, priorizando o que é mais importante.
+
+Lembre-se que o objetivo do Wireframe não é "ficar bonito", e sim validar as suas ideias sobre como deverá ser a estrutura do seu site quando ele estiver pronto.
+
+Na lista de Materiais Adicionais você encontra alguns exemplos de wireframes para se inspirar.
+
+Então, vamos lá. Mãos a obra!
+
+Criando protótipo navegável
+Depois de desenhar todas as páginas do seu site em papel, você deve utilizar as linguagens HTML e CSS para criar com esses wireframes um protótipo navegável. Na lista de materiais adicionais você encontra um link para um exemplo de wireframe feito com HTML e CSS.
+
+Se você não domina essas linguagens, pode começar a aprendê-las através dos cursos de HTML5 e CSS3 disponíveis aqui na plataforma.
+
+Se você preferir, pode criar esse protótipo utilizando uma ferramenta mais simples como o Power Point. Basta utilizar as ferramentas de desenho do programa para criar telas em cada slide, e depois adicionar links entre um slide e outro, para simular o efeito de navegação.
+
+Então, mãos na massa!
+
+O objetivo do Design de Interface é definir o estilo dos elementos e criar telas para tornar a interação do usuário com o site mais simples e eficiente possível.
+
+Style Tiles são pequenos guias de estilo de interfaces, é criado em photoshop. 
+
+Criando Style Tiles:
+Anotações do professor
+Com base no protótipo navegável criado na aula anterior, você deverá fazer uma lista dos principais elementos de interface que estarão no seu site, como logo, menu, títulos, links, botões e caixas de conteúdo.
+
+Em seguida, de acordo com os objetivos definidos para o seu site, você deverá definir quais serão as cores, tipografia, texturas e imagens que serão aplicadas no layout.
+
+Com isso, você deverá criar um Style Tile definindo como será a linguagem visual do seu site.
+
+Na lista de Materiais Adicionais você encontrará um link para alguns exemplos e modelos de como criar um Style Tile. Então, aproveite, e mãos a obra!
+
+
+Um Teste de Usabilidade tradicional solicita aos usua´rios que realizem determinadas tarefas no site em ana´lise, pensando em voz alta, enquanto sa~o observados. Com os feedbacks colhidos podemos otimizar os nossos websites, tornando-os mais fáceis de usar.
+
+
+
+
+
+
+
+
